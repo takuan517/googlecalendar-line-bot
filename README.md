@@ -2,13 +2,14 @@
 ## 概要
 googleカレンダーの予定を確認したり追加したりできるlinebot
 ## 開発環境
-python3.7.4  
-Flask1.1.1  
-line-bot-sdk1.8.0
+python 3.7.4  
+Flask 1.1.1  
+line-bot-sdk 1.8.0
 ## 使用サービス
 * [Heroku](https://www.heroku.com/)
 * [LINE Messaging API](https://developers.line.me/ja/services/messaging-api/)
 * [Google Cloud Platform](https://console.cloud.google.com/?hl=ja)
 ## 現在の機能
 * googleカレンダーから予定の確認ができる。
-* googleカレンダーに予定を入力できる。
+* googleカレンダーに予定を入力できる。  
+
